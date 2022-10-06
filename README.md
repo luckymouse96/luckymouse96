@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thanh Tran (@luckymouse96)
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Working with Data
 - 🌱 I’m currently learning Machine Learning and Neural Network
 
 
